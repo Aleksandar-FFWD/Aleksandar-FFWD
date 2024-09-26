@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Web developer at
+Software Developer at
 
 [Castit](https://castitsignage.com)
 
